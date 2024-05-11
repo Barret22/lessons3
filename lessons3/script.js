@@ -1,7 +1,5 @@
-let shevchenko =`
-    My thoughts, my thoughts
-    Woe to me with you!
-    Why did they become on paper
-    Sad rows?
-`
-console.log(shevchenko)
+
+let point= 10368;
+console.log(point)
+console.log(`${1} ${0} ${3} ${6} ${8}`)
+
